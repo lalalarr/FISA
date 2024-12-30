@@ -1,0 +1,18 @@
+1 일차 내용
+  - java
+      -> web(Sevlet & jsp) -> 정형 구조 Framework(Spring) : 화면 (jsp)
+
+      -> 빌드(SpringBoot : jsp -> React or Vue) : 서버에 세팅하는 구조로 변환
+
+      -> 고객
+
+  - 설치 : java17, sts4, vsc
+
+- 이름 두세명의 이름 : 좌우 내 짝꿍 이름 출력
+- 프로그램명 : NamePrint.java
+- 코드개발 -> 기계어로 변환(컴파일.javac.exe) -> 실행(java.exe)
+
+- 프로젝트 생성 -> 파일 생성 -> 개발 -> 컴파일 -> 실행
+  컴파일 : javac file명.java
+  실행 : java file
+
